@@ -9,4 +9,9 @@ public class HipHopDancer extends Dancer {
 
 
     }
+
+    @Override
+    public void dance() {
+
+    }
 }
